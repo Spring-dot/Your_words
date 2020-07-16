@@ -5,8 +5,8 @@ To Run in your pc(windows):
  1. clone the repository.
  2. install virtualenv and other dependencies.
  3. open powershell:
-   a. go to project folder.
-   b. $env: FLASK_APP = "flaskr".
-   c. $env: FLASK_ENV = "development".
-   d. flask run and press enter.
+   * go to project folder.
+   * $env: FLASK_APP = "flaskr".
+   * $env: FLASK_ENV = "development".
+   * flask run and press enter.
    
